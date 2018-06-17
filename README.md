@@ -19,7 +19,7 @@ git clone git@github.com:freevital/funny-fruits.git
 ## Deployment
 Build application:
 ```bash
-npm install
+npm install --no-package-lock
 npm run build
 ```
 
