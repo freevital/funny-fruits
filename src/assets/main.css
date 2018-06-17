@@ -1,0 +1,12 @@
+@import 'reset.css';
+
+html, body {
+    height: 100%;
+}
+
+#game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+}

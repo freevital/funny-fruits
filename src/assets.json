@@ -1,0 +1,10 @@
+{
+  "background": "assets/bg.jpg",
+  "fruits": [
+    "assets/S1.jpg",
+    "assets/S2.jpg",
+    "assets/S3.jpg",
+    "assets/S4.jpg",
+    "assets/S5.jpg"
+  ]
+}
