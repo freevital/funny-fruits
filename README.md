@@ -17,15 +17,9 @@ git clone git@github.com:freevital/funny-fruits.git
 ```
 
 ## Deployment
-Build application:
+Build and run application:
 ```bash
 npm install --no-package-lock
-npm run build
-```
-
-Start application:
-```bash
 npm start
 ```
-
 Open `http://localhost:8080`

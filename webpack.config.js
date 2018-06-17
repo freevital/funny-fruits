@@ -7,6 +7,7 @@ module.exports = {
         filename: 'bundle.js'
     },
     mode: 'production',
+    stats: 'errors-only',
     module: {
         rules: [
             {

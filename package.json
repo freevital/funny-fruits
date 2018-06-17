@@ -14,8 +14,10 @@
     "webpack-cli": "^3.0.8"
   },
   "scripts": {
-    "start": "http-server public/ -o",
-    "build": "webpack --config webpack.config.js"
+    "start": "npm run build && npm run serve",
+    "build": "webpack --config webpack.config.js",
+    "serve": "http-server public/ -o"
+
   },
   "keywords": [],
   "author": "",
